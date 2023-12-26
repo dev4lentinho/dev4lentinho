@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy v4lentinho
+Hola👻️, Soy v4lentinho
 
 Bienvenido a mi Espacio de trabajo(no tiene un solo repo XD)
 
@@ -13,5 +13,5 @@ Bienvenido a mi Espacio de trabajo(no tiene un solo repo XD)
 ## Si te caí bien hablame al ig:
 - IG: [dev4lentinho](https://www.instagram.com/dev4lentinho/)
 
-##El peor README.md de la historia😱
-<p>mas que un readme es un hola quiero amigos programadores porfa que quiero hablar con alguien que tenga mis intereses</p>
+El peor README.md de la historia😱
+mas que un readme es un hola quiero amigos programadores porfa que quiero hablar con alguien que tenga mis intereses
